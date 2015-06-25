@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<product>
+		<user>대상</user>
+		<barcode>8801007323602</barcode>
+		<name>CJ 비비고 왕교자</name>
+	</product>
+	<product>
+		<user>대상</user>
+		<barcode>8801007251493</barcode>
+		<name>CJ 우리밀만두</name>
+	</product>
+	<product>
+		<user>대상</user>
+		<barcode>8801114127261</barcode>
+		<name>풀무원 올바른 비프&amp;할라피뇨 브리또</name>
+	</product>
+	<product>
+		<user>대상</user>
+		<barcode>8801117765903</barcode>
+		<name>오리온 도도한 나쵸</name>
+	</product>
+	<product>
+		<user>대상</user>
+		<barcode>8801242643183</barcode>
+		<name>프레시안 부산어묵</name>
+	</product>
+</root>

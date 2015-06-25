@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DS_barcodeScanner</string>
+
+    <string name="btn_scan">올리기(다시 확인)</string>
+    <string name="btn_download">바코드 다운로드</string>
+    <string name="error_message">잘못 찍히거나 다른 사용자가 찍은 바코드입니다</string>
+
+</resources>
