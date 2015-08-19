@@ -1,8 +1,24 @@
 <resources>
-    <string name="app_name">DS_barcodeScanner</string>
+    <string name="app_name">바코드 업무</string>
 
-    <string name="btn_scan">올리기(다시 확인)</string>
+    <string name="btn_scan">올리기</string>
+    <string name="product_message">등록된 제품입니다.</string>
+
+    <string name="person_message">다른 분이 찍으신 제품입니다.</string>
+
+    <string name="error_message">등록되지 않은 바코드입니다.</string>
+    <string name="btn_scan_confirm">제품의 바코드와 일치하는지 확인해주세요.\n\n 바코드가 일치하지 않으면 재인식해주세요.</string>
     <string name="btn_download">바코드 다운로드</string>
-    <string name="error_message">잘못 찍히거나 다른 사용자가 찍은 바코드입니다</string>
+    <string name="btn_scan_confirm_yes">전송</string>
+    <string name="btn_scan_confirm_no">재인식</string>
+    <string name="btn_store">저장</string>
+    <string name="btn_scan_yes">확인</string>
+    <string name="finish">"프로그램 종료"</string>
+    <string name="finish_message">"프로그램을 종료 하시겠습니까?"</string>
+    <string name="finish_yes">"예"</string>
+    <string name="finish_no">"아니오"</string>
 
+
+    <string name="barcode">바코드:</string>
+    <string name="number">등록자 번호:</string>
 </resources>

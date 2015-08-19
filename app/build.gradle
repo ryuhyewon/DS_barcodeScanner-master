@@ -2,7 +2,7 @@ apply plugin: 'com.android.application'
 
 android {
 
-    compileSdkVersion 22
+    compileSdkVersion 21
     buildToolsVersion "22.0.1"
 
     defaultConfig {
@@ -21,11 +21,13 @@ android {
 }
 
 dependencies {
+    compile 'com.github.eluleci:flatui:3.0.0'
     compile 'com.squareup.retrofit:retrofit:1.6.1'
+    compile 'com.loopj.android:android-async-http:1.4.5'
     compile 'com.android.support:support-v4:22.0.0'
     compile 'com.android.support:appcompat-v7:22.1.1'
     compile 'me.dm7.barcodescanner:zxing:1.7'
     compile ('com.thoughtworks.xstream:xstream:1.4.5'){
         exclude group: 'xmlpull', module: 'xmlpull'
     }
-}
+   }
